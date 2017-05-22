@@ -1,0 +1,8 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx /Users/wczekalski/Documents/Work/Projects/bucklescript-opam-core/node_modules/bs-platform/bin/bsppx.exe
+S /Users/wczekalski/Documents/Work/Projects/bucklescript-opam-core/node_modules/bs-platform/lib/ocaml
+B /Users/wczekalski/Documents/Work/Projects/bucklescript-opam-core/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -no-alias-deps -color always -w -40+6+7+27+32..39+44+45
+S ocaml-re/lib
+B lib/bs/ocaml-re/lib
+####BSB GENERATED: NO EDIT}

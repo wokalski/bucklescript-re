@@ -1,0 +1,6 @@
+{
+    "name": "bucklescript-re",
+    "sources": [{
+        "dir": "ocaml-re/lib",
+    }]
+}
